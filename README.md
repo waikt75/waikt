@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waikt75
+- 👋 Hi, I’m @waikt
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
